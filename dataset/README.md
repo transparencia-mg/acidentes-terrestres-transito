@@ -33,3 +33,24 @@ Os dados foram extraídos do SIM por meio do tabulador de informações em saúd
 Os dados estão disponíveis a partir de 2010, salienta-se que, de acordo com o fluxo de registro das declarações de óbito, a base de dados do SIM é atualizada quinzenalmente, e há um atraso em torno de dois anos em referência ao ano mais atual.
 
 Destaca-se também que os dados publicados oficialmente pelo Ministério da Saúde (MS) por meio do Departamento de informática do Sistema Único de Saúde (Datasus) referem-se a bancos de dados considerados fechados em uma data específica, o que pode variar a cada ano e gerar diferenças entre o  quantitativo total de registros publicados no Tabnet/SES-MG e pelo Ministério da Saúde no site do Datasus/MS para um mesmo ano.
+
+## Como participar
+
+Saiba como contribuir com a documentação deste conjunto de dados!
+
+A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](https://github.com/thiagomrm/AcidenteTransito). Existem duas alternativas para enviar sua contribuição:
+
+- [Pull requests](https://github.com/thiagomrm/AcidenteTransito/pulls): Para sugerir uma alteração concreta na documentação.
+
+Todas as contribuições são bem vindas. Alguns exemplos são:
+
+* Indicação de expressões imprecisas presentes na documentação;
+* Sugestões para inclusão de descrições em campos específicos;
+* Sugestões para clareza na organização das ideias;
+* Correção de erros de ortografia e gramática.
+
+Além disso, fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
+
+- [Fale Conosco](https://www.saude.mg.gov.br/fale-conosco): Dúvidas
+- [Manifestações de Ouvidoria](http://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões
+- [Pedido de Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis
