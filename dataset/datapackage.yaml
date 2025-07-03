@@ -2,7 +2,7 @@ name: acidentes-terrestres-transito
 owner_org: secretaria-de-estado-de-saude-ses
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: Acidentes terrestres transito
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -15,22 +15,40 @@ resources:
       fields:
         - name: dt_obito
           type: date
+          title: Data do Óbito
+          description: Data do Óbito
         - name: dt_nascimento
           type: date
+          title: Data do Nascimento
+          description: Data do Nascimento
         - name: nu_idade
           type: geopoint
+          title: Idade
+          description: Idade
         - name: sg_sexo
           type: string
+          title: sexo
+          description: Sexo
         - name: tp_raca_cor
           type: string
+          title: Raça/Cor
+          description: Raça/Cor
         - name: co_municipio_ibge_residencia
           type: string
+          title: Município de residência
+          description: Município de residência
         - name: co_municipio_ibge_ocorrencia
           type: string
+          title: Município de Ocorrência
+          description: Município de Ocorrência
         - name: co_cid_causa_basica
           type: string
+          title: Código do CID
+          description: Código do CID do óbito
         - name: desc_cid_causa_basica
           type: string
+          title: Descrição do CID
+          description: Descrição do CID do óbito
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Acidentes terrestres transito
 title: Acidentes terrestres transito
