@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Acidentes terrestres transito",
+      "description": "Dados de Acidentes Terrestres",
       "dialect": {
         "delimiter": ";"
       },
@@ -73,8 +73,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Acidentes terrestres transito"
+      "title": "Dados de Acidentes Terrestres"
     }
   ],
-  "title": "Acidentes terrestres transito"
+  "title": "Dados de Acidentes Terrestres"
 }
