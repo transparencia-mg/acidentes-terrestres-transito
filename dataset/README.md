@@ -1,5 +1,6 @@
 ## ÓBITOS POR ACIDENTES DE TRANSPORTE TERRESTRE 
 
+
 O banco de dados de Acidentes de Transporte Terrestre (ATT) contempla os registros de óbitos, inseridos no Sistema de Informação sobre Mortalidade (SIM), que é alimentado, pelo setor saúde, com informações contidas na [Declaração de Óbito (DO)](https://bvsms.saude.gov.br/bvs/publicacoes/declaracao_obito_3ed.pdf), cuja responsabilidade ética e jurídica pelo preenchimento e pela assinatura é do médico.
 Os dados do Sistema de Informação sobre Mortalidade, passam por processos de aprimoramento e qualificação, que são realizados em 3 etapas junto aos Estados e Municípios.
 
