@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 2.364,
+  "time": 2.361,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Acidentes terrestres transito",
+        "description": "Dados de Acidentes Terrestres",
         "dialect": {
           "delimiter": ";"
         },
@@ -74,7 +74,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Acidentes terrestres transito",
+        "title": "Dados de Acidentes Terrestres",
         "stats": {
           "hash": "4c051511639126213f2668471be56059",
           "bytes": 5401552,
@@ -82,7 +82,7 @@
           "rows": 57383
         }
       },
-      "time": 2.351,
+      "time": 2.349,
       "scope": [
         "hash-count-error",
         "byte-count-error",
