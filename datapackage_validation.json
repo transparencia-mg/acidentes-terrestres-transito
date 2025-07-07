@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 2.361,
+  "time": 2.439,
   "errors": [],
   "tasks": [
     {
@@ -39,13 +39,29 @@
               "name": "sg_sexo",
               "type": "string",
               "title": "sexo",
-              "description": "Sexo"
+              "description": "Sexo",
+              "constraints": {
+                "enum": [
+                  "Feminino",
+                  "Masculino"
+                ]
+              }
             },
             {
               "name": "tp_raca_cor",
               "type": "string",
               "title": "Raça/Cor",
-              "description": "Raça/Cor"
+              "description": "Raça/Cor",
+              "constraints": {
+                "enum": [
+                  "Branca",
+                  "Preta",
+                  "Amarela",
+                  "Parda",
+                  "Indígena",
+                  "Ignorado"
+                ]
+              }
             },
             {
               "name": "co_municipio_ibge_residencia",
@@ -82,7 +98,7 @@
           "rows": 57383
         }
       },
-      "time": 2.349,
+      "time": 2.426,
       "scope": [
         "hash-count-error",
         "byte-count-error",
