@@ -36,7 +36,8 @@ resources:
         - name: tp_raca_cor
           type: string
           title: Raça/Cor
-          description: Raça/Corconstraints: 
+          description: Raça/Cor
+          constraints: 
            enum:
                 - 'Branca'
                 - 'Preta'
