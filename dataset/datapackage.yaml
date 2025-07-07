@@ -29,10 +29,21 @@ resources:
           type: string
           title: sexo
           description: Sexo
+          constraints: 
+           enum:
+                - 'Feminino'
+                - 'Masculino'
         - name: tp_raca_cor
           type: string
           title: Raça/Cor
-          description: Raça/Cor
+          description: Raça/Corconstraints: 
+           enum:
+                - 'Branca'
+                - 'Preta'
+                - 'Amarela'
+                - 'Parda'
+                - 'Indígena'
+                - 'Ignorado'
         - name: co_municipio_ibge_residencia
           type: string
           title: Município de residência
