@@ -2,7 +2,7 @@ name: acidentes-terrestres-transito
 owner_org: secretaria-de-estado-de-saude-ses
 profile: data-package
 resources:
-  - description: Acidentes terrestres transito
+  - description: Dados de Acidentes Terrestres
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -50,5 +50,5 @@ resources:
           title: Descrição do CID
           description: Descrição do CID do óbito
     scheme: file
-    title: Acidentes terrestres transito
-title: Acidentes terrestres transito
+    title: Dados de Acidentes Terrestres
+title: Dados de Acidentes Terrestres
