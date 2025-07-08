@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 2.469,
+  "time": 2.542,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de Acidentes Terrestres",
+        "description": "O banco de dados de Acidentes de Transporte Terrestre (ATT) contempla os registros de óbitos, inseridos no Sistema de Informação sobre Mortalidade (SIM)",
         "dialect": {
           "delimiter": ";"
         },
@@ -98,7 +98,7 @@
           "rows": 57383
         }
       },
-      "time": 2.456,
+      "time": 2.529,
       "scope": [
         "hash-count-error",
         "byte-count-error",
