@@ -4,7 +4,6 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "O banco de dados de Acidentes de Transporte Terrestre (ATT) contempla os registros de óbitos, inseridos no Sistema de Informação sobre Mortalidade (SIM)",
       "dialect": {
         "delimiter": ";"
       },
